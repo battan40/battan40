@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Angie (She/her) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> �⛲</h1>
+<h1 align="center"> Hello, I'm Angie (She/her) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">⛲</h1>
 
 <br>
 
@@ -9,11 +9,11 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=battan40&layout=compact&theme=dark&hide_border=true)
 ![Angie's Stats](https://github-readme-stats.vercel.app/api?username=battan40&show_icons=true&hide_border=true&theme=dark)
-<h2 align="center">📫 Reach me on</h2>
 
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/angela-battillo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+<h2 align="left">📫 Reach me on</h2>
+
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/angela-battillo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="mailto:angela.battillo@gmail.com?subject=Hello%20Angie"><img      src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -22,9 +22,8 @@
 * :cis-woman-technologist: &nbsp; Front-End Engineering Certification from Turing School of Software & Design (*anticipated completion:* **August 2021**)
 * :mortar_board: &nbsp; Bachelor's Degree in Traditional Eastern Arts from Naropa University
 <br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=battan40&show_icons=true&theme=blue-green)
-#### I'm currently learning:
-* :atom_symbol: &nbsp; Context
+
+
 #### Technologies:
 <table>
     <tr>
@@ -55,5 +54,3 @@
     </tr>
 </table>
 <br />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=battan40&theme=blue-green)
-<!--- ![Profile View Counter](https://komarev.com/ghpvc/?username=pcmueller) -- >
