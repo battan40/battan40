@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Angie ⛲ My pronouns are she/her </h1>
 
-<h3 align="center">I'm a software engineer who develops with compassion for other developers and the experience of the end-user. I enjoy working with React, SCSS, and javaScript to create RESTful web applications following TDD, MVC, DRY, and Agile methodologies. On a dare I found a career in software development, learned at the Turing School of Software and Design. I admire companies that support the LGBTQ+ and BIPOC communities.</h3>
+<h3 align="center">I'm a software engineer who develops with compassion for other developers and the experience of the end-user. I enjoy working with React, SCSS, and javaScript to create RESTful web applications following TDD, MVC, DRY, and Agile methodologies. On a dare I found a career in software development, learned at the Turing School of Software and Design. I admire and feel most at home with companies that support feminine && LGBTQQIP2SAA && BIPOC communities.</h3>
 
 - 🔭 I’m currently working on [HeadToToe](https://github.com/Head-To-Toe)
 
