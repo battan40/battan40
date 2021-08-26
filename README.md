@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [HeadToToe](https://github.com/Head-To-Toe)
 
-- 🌱 I’m currently learning **React Hooks + Context API**
+- 🌱 I’m currently learning **Java + C + MS SQL**
 
 - 💬 Ask me about **The Dom, User Flow, Design Patterns**
 
