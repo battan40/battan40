@@ -2,8 +2,9 @@
 
 <h3 align="center">I'm a software engineer who develops with compassion for other developers and the experience of the end-user. I enjoy working with React, SCSS, and javaScript to create RESTful web applications following TDD, MVC, DRY, and Agile methodologies. On a dare I found a career in software development, learned at the Turing School of Software and Design. I admire and feel most at home with companies that support feminine && LGBTQQIP2SAA && BIPOC communities.</h3>
 
-- 🔭 I’m currently working on [Food Rescue Robot-V2](https://github.com/battan40/food-rescue-robot-v2?organization=battan40&organization=battan40)
+//working on [Food Rescue Robot-V2](https://github.com/battan40/food-rescue-robot-v2?organization=battan40&organization=battan40)
 
+- 🔭 I’m currently working at **Zayo**
 - 🌱 I’m currently learning **SalesForce, Apex, LWC && VisualForce**
 
 - 💬 Ask me about **The Dom, User Flow, Design Patterns, why SOQL does what it does**
