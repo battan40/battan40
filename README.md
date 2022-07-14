@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Food Rescue Robot-V2](https://github.com/battan40/food-rescue-robot-v2?organization=battan40&organization=battan40)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **SalesForce, Apex, LWC && VisualForce**
 
-- 💬 Ask me about **The Dom, User Flow, Design Patterns**
+- 💬 Ask me about **The Dom, User Flow, Design Patterns, why SOQL does what it does**
 
 - ⚡ Fun fact **I love good company, wine and food**
 
