@@ -4,7 +4,7 @@
 
 <h3 align="left">My roots are in React, SCSS, and javaScript to create RESTful web applications following TDD, MVC, DRY, and Agile methodologies.</h3> 
 
-<h3 align="center">On a dare I found a career in software development, and learned at the Turing School of Software and Design. I admire and feel most at home with companies that support feminine && LGBTQQIP2SAA && BIPOC communities.</h3>
+<h3 align="left">On a dare I found a career in software development, and learned at the Turing School of Software and Design. I admire and feel most at home with companies that support feminine && LGBTQQIP2SAA && BIPOC communities.</h3>
 
 - 🔭 I’m currently working at **Zayo**
 - 🌱 I’m currently ramping up my **SalesForce, Apex, LWC && VisualForce** skills
