@@ -7,11 +7,11 @@
 <h3 align="left">On a dare I found a career in software development, and learned at the Turing School of Software and Design. I admire and feel most at home with companies that support feminine && LGBTQQIP2SAA && BIPOC communities.</h3>
 
 - 🔭 I’m currently working at **Zayo**
-- 🌱 I’m currently ramping up my **SalesForce, Apex, LWC && VisualForce** skills
+- 🌱 I’m currently working with **SalesForce, Apex, LWC && Admin**
 
 - 💬 Ask me about **The Dom, User Flow, Design Patterns, why SOQL does what it does**
 
-- ⚡ Fun fact **I love good company, wine and food together**
+- ⚡ Fun fact **I love good company, wine and food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
